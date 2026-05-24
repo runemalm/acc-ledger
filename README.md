@@ -1,6 +1,6 @@
-# acc-ledger
+# acc-ledger-ontology
 
-`acc-ledger` is an accounting ledger semantic module.
+`acc-ledger-ontology` is an accounting ledger semantic ontology module.
 
 The repository is intended to grow into a ledger module that can later compose with adjacent modules such as VAT, reporting, and other institutional accounting capabilities.
 
