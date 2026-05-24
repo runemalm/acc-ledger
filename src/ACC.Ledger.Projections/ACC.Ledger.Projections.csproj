@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="../ACC.Ledger.Kernel/ACC.Ledger.Kernel.csproj" />
+  </ItemGroup>
+</Project>

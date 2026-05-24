@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../../src/ACC.Ledger.Application/ACC.Ledger.Application.csproj" />
+    <ProjectReference Include="../../src/ACC.Ledger.Kernel/ACC.Ledger.Kernel.csproj" />
+  </ItemGroup>
+</Project>

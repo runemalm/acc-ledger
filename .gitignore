@@ -1,0 +1,24 @@
+## .NET
+bin/
+obj/
+TestResults/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build output
+artifacts/
+publish/
+
+## Rider / JetBrains
+.idea/
+*.DotSettings.user
+
+## Visual Studio Code
+.vscode/
+
+## OS
+.DS_Store
+Thumbs.db
