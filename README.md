@@ -24,7 +24,7 @@ Core institutional concerns include:
 - immutable institutional facts,
 - and invariant enforcement.
 
-The module is intended to evolve toward a minimal but composable ledger nucleus capable of participating in a larger accounting domain ecology.
+The module is intended to evolve toward a minimal but composable ledger nucleus capable of participating in a larger [accounting domain ecology](https://github.com/runemalm/acc-domain).
 
 ## Status
 
